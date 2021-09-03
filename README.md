@@ -1,6 +1,6 @@
-# Midterm Assignment - Due Date, Thursday May 17 2018 
+# Convolutional Neural Network for Text Classification in Tensorflow 
 
-Use a Convolutional Neural Network to classify a text dataset, like one of [these](https://github.com/niderhoff/nlp-datasets). The more interesting the use case the better. Good documentation gets bonus points. Submit github links in the comment section. Good luck!
+Use a Convolutional Neural Network to classify a text dataset, like one of [these](https://github.com/niderhoff/nlp-datasets).
 
 ## Overview
 
@@ -77,4 +77,4 @@ Replace the checkpoint dir with the output from the training. To use your own da
 
 ## Credits
 
-Credits for this code go to [dennybritz](https://github.com/dennybritz/cnn-text-classification-tf) i've merely created a wrapper to get people started. 
+Credits for this code go to [dennybritz](https://github.com/dennybritz/cnn-text-classification-tf). 
